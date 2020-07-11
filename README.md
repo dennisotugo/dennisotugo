@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Dennis Otugo
-Hi, I'm Dennis (he/his)—a senior devops engineer at Yellow Card Financial working on opening up the cash market for cryptocurrency by offering in-store gift cards redeemable online. Previously worked at Arca Payments Company Limited creating innovative financial solutiosn. I live in Lagos, Nigeria and am an Igbo boy. 🙌 I'm a huge nerd/geek, Splatoon 2 + ACNH player, and aspiring aerialist. 💕
+Hi, I'm Dennis (he/his)—a senior devops engineer at Yellow Card Financial working on opening up the cash market for cryptocurrency by offering in-store gift cards redeemable online. Partner @bantrain. Previously worked at Arca Payments Company Limited creating innovative financial solutiosn. I live in Lagos, Nigeria and am an Igbo boy. 🙌 I'm a huge nerd/geek, Splatoon 2 + ACNH player, and aspiring aerialist. 💕
 
 ## My values
 💖 Safety and trust<br>
