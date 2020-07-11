@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Dennis Otugo
-Hi, I'm Dennis (she/her)—a senior devops engineer at Yellow Card Financials working on making bitcoin accessible. Previously worked on the Community & Safety team to help communities grow welcoming and productive spaces. I live in Oakland, CA and am an East Bay native. 🙌 I'm a huge nerd/geek, Splatoon 2 + ACNH player, and aspiring aerialist. 💕
+Hi, I'm Dennis (she/her)—a senior devops engineer at Yellow Card Financial working on opening up the cash market for cryptocurrency by offering in-store gift cards redeemable online.. Previously worked on the Community & Safety team to help communities grow welcoming and productive spaces. I live in Lagos, Nigeria and am an Igbo boy. 🙌 I'm a huge nerd/geek, Splatoon 2 + ACNH player, and aspiring aerialist. 💕
 
 ## My values
 💖 Safety and trust<br>
