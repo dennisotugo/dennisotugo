@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Dennis Otugo
-Hi, I'm Dennis (he/his)—a Partner @ https://bantrain.com. I live in Lagos, Nigeria and am an Igbo boy. 🙌 I'm a huge nerd/geek. 💕
+Hi, I'm Dennis (he/his)—a Partner @ https://dennis.com. I an Igbo boy. 🙌 I'm a huge nerd/geek.
 
 ## My values
 💖 Safety and trust<br>
@@ -28,5 +28,5 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 
 ## Get in touch
 - Twitter: https://twitter.com/dennisotugo
-- Consulting site: https://bantrain.com/
+- Consulting site: https://dennisotugo.com/
 
