@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Dennis Otugo
-Hi, I'm Dennis (he/his)—a Partner @ https://dennis.com. I an Igbo boy. 🙌 I'm a huge nerd/geek.
+Hi, I'm Dennis (he/his)—a Partner @ https://dennisotugo.com. I an Igbo boy. 🙌 I'm a huge nerd/geek.
 
 ## My values
 💖 Safety and trust<br>
